@@ -1,3 +1,6 @@
+#### 一，合并两个有序链表
+
+<img src="https://yx-1305006541.cos.ap-guangzhou.myqcloud.com/img/sing-linked-list-1/clipboard_20210221_094051.png" style="zoom:70%;" />
 ##### 1.1 题目分析
 
 看到这道题的时候，第一反应就是先将两个链表合并，然后再排序。嗯。。。不用想，绝对的暴力写法。
